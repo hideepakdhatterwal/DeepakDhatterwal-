@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://deepakdhatterwal.vercel.app/sitemap.xml
+Sitemap: https://deepakdhatterwalactor.vercel.app/sitemap.xml
